@@ -11,7 +11,6 @@ Usage:
       -n domain       specify name
       -f file.txt     read list of names from file
       -h country      specify "home" country (default SE) in ISO 3166-1
-      --threads       number of threads
       --debug         debug mode
 
 Example use:  
