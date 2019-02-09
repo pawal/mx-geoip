@@ -6,7 +6,7 @@ or a batch of domains.
 
 Usage:  
 
-    collect.pl -n domain
+    mx-geoip.pl -n domain
 
       -n domain       specify name
       -f file.txt     read list of names from file
